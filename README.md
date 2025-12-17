@@ -1,5 +1,12 @@
-# 3-v-vrsto
-Zelo enostavna, zeankrat še brez GUI, igra 3 v vrsto.
+# 3-v-vrsto  -> ***3vrsto.py***
+Prepisana v python, za pravilno delovanje je potrebno imeti na sistemu naložen pygame.
+Ko je enkrat naložen greste preko terminala v direktorij, kjer je naložena koda in poženete z:
+
+    python3 3vrsto.py
+
+
+# 3-v-vrsto preko terminala   ->   ***3vrsto.c***
+Zelo enostavna, brez GUI, igra 3 v vrsto.
 
 Pravila igre:
   Najprej pobereš kodo iz repozitorija (je open source).
@@ -19,4 +26,5 @@ Ponavljaj ta korak do konca igre.
 
 Igre ni možno zmagati. Računalnik vedno izvede optimalno potezo.
 
-Have fun!
+
+Uživajte!
